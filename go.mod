@@ -1,4 +1,4 @@
-module github.com/srcgod/common
+module github.com/srcgod/newcommon
 
 go 1.24.4
 
